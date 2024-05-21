@@ -9,3 +9,7 @@ editor: visual
 ## Trees!
 
 Substantial change
+
+Click here to visit a page about how much we like trees!
+
+<https://calvinecosystempreserve.github.io/50-years-of-trees/iliketrees>
