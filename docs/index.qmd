@@ -1,13 +1,18 @@
 ---
 title: "50 Years of Tree Census!"
+authors: "Us"
 date: "May 23 2024"
 format: html
 editor: visual
 embed-resources: True
 ---
 
-## Map of quadrats by year
+Welcome to the 50th anniversary of the Calvin Ecosystem Preserve's Tree Census!
 
-Click here to see a map of which areas of the Preserve were measured in each census year.
+#### Click here to read about the history of the tree census:
+
+https://fake-link.placeholder.net
+
+#### Click here to see a map of which areas of the Preserve were measured in each census year:
 
 <https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year>
