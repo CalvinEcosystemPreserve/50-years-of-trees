@@ -16,3 +16,11 @@ https://fake-link.placeholder.net
 #### Click here to see a map of which areas of the Preserve were measured in each census year:
 
 <https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year>
+
+#### Click here to look at quadrat-level stats:
+
+https://stats.trees
+
+#### Click here for species-level stats:
+
+https://trees.trees
