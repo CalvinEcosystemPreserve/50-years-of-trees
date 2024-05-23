@@ -1,15 +1,13 @@
 ---
-title: "50 Years of Trees!"
-author: "Us"
-date: "Today"
+title: "50 Years of Tree Census!"
+date: "May 23 2024"
 format: html
 editor: visual
+embed-resources: True
 ---
 
-## Trees!
+## Map of quadrats by year
 
-Substantial change
+Click here to see a map of which areas of the Preserve were measured in each census year.
 
-Click here to visit a page about how much we like trees!
-
-<https://calvinecosystempreserve.github.io/50-years-of-trees/iliketrees>
+<https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year>
