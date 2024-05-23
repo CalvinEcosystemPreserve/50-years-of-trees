@@ -1,8 +1,0 @@
----
-title: "I Like Trees!"
-format: html
-editor: visual
-embed-resources: true
----
-
-# TREES
