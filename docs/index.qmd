@@ -11,7 +11,7 @@ Welcome to the 50th anniversary of the Calvin Ecosystem Preserve's Tree Census!
 
 #### Click here to read about the history of the tree census:
 
-https://fake-link.placeholder.net
+<https://calvinecosystempreserve.github.io/50-years-of-trees/history_tree_census>
 
 #### Click here to see a map of which areas of the Preserve were measured in each census year:
 
