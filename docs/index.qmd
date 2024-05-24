@@ -24,3 +24,7 @@ https://fake-link.placeholder.net
 #### Click here to look at species-level statistics:
 
 <https://calvinecosystempreserve.github.io/50-years-of-trees/species_graphs>
+
+#### Downloadable tree names dataset:
+
+<https://calvinecosystempreserve.github.io/50-years-of-trees/TreeNames(Sheet1).csv>
