@@ -1,7 +1,7 @@
 ---
 title: "50 Years of Tree Census!"
-authors: "Us"
-date: "May 23 2024"
+authors: "Ella Addink and Noelle Haviland"
+date: "May 24, 2024"
 format: html
 editor: visual
 embed-resources: True
