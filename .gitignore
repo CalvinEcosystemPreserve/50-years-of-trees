@@ -47,3 +47,6 @@ rsconnect/
 
 #Our specific RProj
 50-years-of-trees.Rproj
+
+#.DS_Store
+.DS_Store
