@@ -17,10 +17,10 @@ https://fake-link.placeholder.net
 
 <https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year>
 
-#### Click here to look at quadrat-level stats:
+#### Click here to look at quadrat-level statistics:
 
-https://stats.trees
+<https://calvinecosystempreserve.github.io/50-years-of-trees/quadrat_graphs>
 
-#### Click here for species-level stats:
+#### Click here to look at species-level statistics:
 
-https://trees.trees
+<https://calvinecosystempreserve.github.io/50-years-of-trees/species_graphs>
