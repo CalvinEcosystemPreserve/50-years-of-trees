@@ -16,7 +16,7 @@ format:
 <div class="sidebar-links">
   <h3>Quick Links</h3>
   <ul>
-    <li><a href="https://calvinecosystempreserve.github.io/50-years-of-trees/Senior%20Project%20Presentation">Presentation</a></li>
+    <li><a href="https://docs.google.com/presentation/d/1saWm85zN5geYyPvu8xR8NkOLW_oYKo7bDwJcE_vTNGg/edit?pli=1#slide=id.g3180d71becc_2_75">Presentation</a></li>
     <li><a href="https://calvin.edu/academics/school-stem/computer-science">Department of Computer Science</a></li>
   </ul>
 </div>
