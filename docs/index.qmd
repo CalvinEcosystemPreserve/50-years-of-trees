@@ -2,17 +2,32 @@
 title: "50 Years of Tree Census!"
 author: ["Ella Addink", "Noelle Haviland",Felicia SuSanto, Davis Addinks, Sucry Bendeck]
 date: "last-modified"
-format: html
-editor: visual
-embed-resources: true
+format:
+  html:
+    embed-resources: true
+    css: format.css
+    editor: visual
 ---
 
 <nav style="background-color: #2f4f4f; padding: 10px; text-align: center; margin-bottom: 20px;">
 
 </nav>
 
+<div class="sidebar-links">
+  <h3>Quick Links</h3>
+  <ul>
+    <li><a href="https://calvinecosystempreserve.github.io/50-years-of-trees/Senior%20Project%20Presentation">Presentation</a></li>
+    <li><a href="https://calvin.edu/academics/school-stem/computer-science">Department of Computer Science</a></li>
+  </ul>
+</div>
+
+
 ::: content-box
 # Welcome to the 50th anniversary of the Calvin Ecosystem Preserve's Tree Census!
+
+## Important links:
+- [Department of Computer Science]()
+- [Presentation]()
 
 ## 📁 Documents:
 
@@ -27,6 +42,7 @@ embed-resources: true
 
 -   [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization)\
 -   [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report)
+
 
 ------------------------------------------------------------------------
 :::
