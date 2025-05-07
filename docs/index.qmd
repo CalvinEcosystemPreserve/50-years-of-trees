@@ -9,8 +9,6 @@ embed-resources: true
 
 <nav style="background-color: #2f4f4f; padding: 10px; text-align: center; margin-bottom: 20px;">
 
-<a href="https://calvinecosystempreserve.github.io/50-years-of-trees/" style="color: white; margin: 0 15px; text-decoration: none;">Home</a>
-
 </nav>
 
 ::: content-box
@@ -31,6 +29,4 @@ embed-resources: true
 -   [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report)
 
 ------------------------------------------------------------------------
-
-[🔙 Back to Home](https://calvinecosystempreserve.github.io/50-years-of-trees/)
 :::
