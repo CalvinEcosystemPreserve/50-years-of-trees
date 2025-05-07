@@ -1,36 +1,36 @@
 ---
 title: "50 Years of Tree Census!"
 author: ["Ella Addink", "Noelle Haviland",Felicia SuSanto, Davis Addinks, Sucry Bendeck]
-date: "May 24, 2024"
+date: "last-modified"
 format: html
 editor: visual
 embed-resources: true
 ---
 
 <nav style="background-color: #2f4f4f; padding: 10px; text-align: center; margin-bottom: 20px;">
-  <a href="https://calvinecosystempreserve.github.io/50-years-of-trees/" style="color: white; margin: 0 15px; text-decoration: none;">Home</a>
+
+<a href="https://calvinecosystempreserve.github.io/50-years-of-trees/" style="color: white; margin: 0 15px; text-decoration: none;">Home</a>
+
 </nav>
 
-<div class="content-box">
-
+::: content-box
 # Welcome to the 50th anniversary of the Calvin Ecosystem Preserve's Tree Census!
 
 ## 📁 Documents:
 
 ### 🌳 Previous Projects
 
-- [History of the Tree Census](https://calvinecosystempreserve.github.io/50-years-of-trees/history_tree_census)  
-- [Map of Quadrat Coverage by Year](https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year)  
-- [Quadrat-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/quadrat_graphs)  
-- [Species-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/species_graphs)  
+-   [History of the Tree Census](https://calvinecosystempreserve.github.io/50-years-of-trees/history_tree_census)\
+-   [Map of Quadrat Coverage by Year](https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year)\
+-   [Quadrat-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/quadrat_graphs)\
+-   [Species-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/species_graphs)
 
 ### 🎓 Senior Project 2024–2025
 
-- [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization)  
-- [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report) 
+-   [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization)\
+-   [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report)
 
----
+------------------------------------------------------------------------
 
 [🔙 Back to Home](https://calvinecosystempreserve.github.io/50-years-of-trees/)
-
-</div>
+:::
