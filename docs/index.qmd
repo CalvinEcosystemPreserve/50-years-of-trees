@@ -1,6 +1,6 @@
 ---
 title: "50 Years of Tree Census!"
-author: ["Ella Addink", "Noelle Haviland",Felicia SuSanto, Davis Addinks, Sucry Bendeck]
+author: ["Davis Addinks", "Ella Addink", "Sucry Bendeck", "Noelle Haviland", "Felicia SuSanto"]
 date: "last-modified"
 format:
   html:
