@@ -1,30 +1,36 @@
 ---
 title: "50 Years of Tree Census!"
-authors: "Ella Addink and Noelle Haviland"
+author: ["Ella Addink", "Noelle Haviland",Felicia SuSanto, Davis Addinks, Sucry Bendeck]
 date: "May 24, 2024"
 format: html
 editor: visual
-embed-resources: True
+embed-resources: true
 ---
 
-Welcome to the 50th anniversary of the Calvin Ecosystem Preserve's Tree Census!
+<nav style="background-color: #2f4f4f; padding: 10px; text-align: center; margin-bottom: 20px;">
+  <a href="https://calvinecosystempreserve.github.io/50-years-of-trees/" style="color: white; margin: 0 15px; text-decoration: none;">Home</a>
+</nav>
 
-#### Click here to read about the history of the tree census:
+<div class="content-box">
 
-<https://calvinecosystempreserve.github.io/50-years-of-trees/history_tree_census>
+# Welcome to the 50th anniversary of the Calvin Ecosystem Preserve's Tree Census!
 
-#### Click here to see a map of which areas of the Preserve were measured in each census year:
+## 📁 Documents:
 
-<https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year>
+### 🌳 Previous Projects
 
-#### Click here to look at quadrat-level statistics:
+- [History of the Tree Census](https://calvinecosystempreserve.github.io/50-years-of-trees/history_tree_census)  
+- [Map of Quadrat Coverage by Year](https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year)  
+- [Quadrat-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/quadrat_graphs)  
+- [Species-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/species_graphs)  
 
-<https://calvinecosystempreserve.github.io/50-years-of-trees/quadrat_graphs>
+### 🎓 Senior Project 2024–2025
 
-#### Click here to look at species-level statistics:
+- [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization)  
+- [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report) 
 
-<https://calvinecosystempreserve.github.io/50-years-of-trees/species_graphs>
+---
 
-#### Downloadable datasets:
+[🔙 Back to Home](https://calvinecosystempreserve.github.io/50-years-of-trees/)
 
-links here to come
+</div>
