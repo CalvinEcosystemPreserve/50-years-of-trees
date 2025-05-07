@@ -25,10 +25,6 @@ format:
 ::: content-box
 # Welcome to the 50th anniversary of the Calvin Ecosystem Preserve's Tree Census!
 
-## Important links:
-- [Department of Computer Science]()
-- [Presentation]()
-
 ## 📁 Documents:
 
 ### 🌳 Previous Projects
