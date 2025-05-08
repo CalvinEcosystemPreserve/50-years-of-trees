@@ -38,7 +38,7 @@ format:
 
 ### 🎓 Senior Project 2024–2025
 -   [Readme](https://github.com/CalvinEcosystemPreserve/tree-census)
--   [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization)
+-   [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization1)
 -   [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report2)
 
 
