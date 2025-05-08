@@ -1,25 +1,5 @@
 # 50-years-of-trees
-## Our Vision and Summary
-
-Our vision for this tree data census project is to be able to provide Calvin’s community with publicly accessible predictive models and an interactive visualization of what the area of study looks like, how it has evolved over the years, and how it might change in the future.
-
-This semester we have worked hard on this project, both individually and as a group. Davis has studied the data that will help us make interactive visualizations over the years. He did this by using the data that was provided and then plotting it onto a map with a bar slider so that we could see the evolution of the trees over the years on a spatial graph. Additionally, he made it so that if someone hovers over a data point of interest, the DBH and species are seen. Felicia has started to work on the predictive model using tree DBH, weather, and disease, which is an advancement for next semester’s objective. Lastly, Sucry has been working on wrangling the elevation points and the height of the trees onto a map plot that only includes the two hectares of the study area. By doing this, reducing the amount of data to work with reduces the quantity of work.\
-
-To put it all together. The plan moving forward is to merge Davis’s and Sucry’s data so that with the interactive map, the positions are found in the exact coordinates so that when the slide bar moves, so does the breadth of trees. Doing this will let anyone see the plot and will make it easier for anyone looking at the plot to see how the trees have evolved over the last fifty years. Once this is done, the plot will help us create a model that will allow us to see how the trees will evolve in the future. After doing this, the model and the interactive map will be uploaded to a website that will eventually be open to Calvin's community.
-
-## Our Team
-
-### Davis Addink 
-
-is a data science major and information systems minor from Denver, Colorado. He is dedicated to learning and hopes to perform data analysis in a meaningful way to the world as a whole after graduation.
-
-### Felicia Susanto 
-
-is a data science major and psychology major from Indonesia. She is hoping to combine these two fields in her future career to make a true positive difference to the world.
-
-### Sucry Bendeck
-
-is a data science major with both computer science and electrical engineering minors from Honduras. He hopes to use his knowledge working in the medical field after graduation, helping people live healthier lives.
-
-# Code and report:
-You can find our code and report [here](https://calvinecosystempreserve.github.io/50-years-of-trees/)
+This repository is a source for the general public
+## Links
+You can see the visualization we made here:
+-   [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization)
