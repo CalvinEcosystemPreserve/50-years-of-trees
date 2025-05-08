@@ -37,9 +37,9 @@ format:
 -   [Species-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/species_graphs)
 
 ### 🎓 Senior Project 2024–2025
--   [Vision Statement](https://calvinecosystempreserve.github.io/50-years-of-trees/vision_mission)
+-   [Readme](https://github.com/CalvinEcosystemPreserve/tree-census)
 -   [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization)
--   [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report)
+-   [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report2)
 
 
 ------------------------------------------------------------------------
