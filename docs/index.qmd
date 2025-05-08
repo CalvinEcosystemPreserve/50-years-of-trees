@@ -1,0 +1,46 @@
+---
+title: "50 Years of Tree Census!"
+author: ["Davis Addink", "Ella Addink", "Sucry Bendeck", "Noelle Haviland", "Felicia SuSanto"]
+date: "last-modified"
+format:
+  html:
+    embed-resources: true
+    css: format.css
+    editor: visual
+---
+
+<nav style="background-color: #2f4f4f; padding: 10px; text-align: center; margin-bottom: 20px;">
+
+</nav>
+
+<div class="sidebar-links">
+  <h3>Quick Links</h3>
+  <ul>
+    <li><a href="https://docs.google.com/presentation/d/1saWm85zN5geYyPvu8xR8NkOLW_oYKo7bDwJcE_vTNGg/edit?pli=1#slide=id.g3180d71becc_2_75" target="_blank">Presentation</a></li>
+    <li><a href="https://calvin.edu/academics/school-stem/computer-science" target="_blank">Department of Computer Science</a></li>
+    <li><a href="https://calvinecosystempreserve.github.io/50-years-of-trees/research">Research</a></li>
+  </ul>
+</div>
+
+
+
+::: content-box
+# Welcome to the 50th anniversary of the Calvin Ecosystem Preserve's Tree Census!
+
+## 📁 Documents:
+
+### 🌳 Previous Projects
+
+-   [History of the Tree Census](https://calvinecosystempreserve.github.io/50-years-of-trees/history_tree_census)\
+-   [Map of Quadrat Coverage by Year](https://calvinecosystempreserve.github.io/50-years-of-trees/quadrats_by_year)\
+-   [Quadrat-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/quadrat_graphs)\
+-   [Species-Level Statistics](https://calvinecosystempreserve.github.io/50-years-of-trees/species_graphs)
+
+### 🎓 Senior Project 2024–2025
+-   [Readme](https://github.com/CalvinEcosystemPreserve/tree-census)
+-   [Visualizations](https://calvinecosystempreserve.github.io/50-years-of-trees/visualization1)
+-   [Final Report](https://calvinecosystempreserve.github.io/50-years-of-trees/report2)
+
+
+------------------------------------------------------------------------
+:::
